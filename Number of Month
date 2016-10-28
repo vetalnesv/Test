@@ -24,6 +24,6 @@ public class Solution
                 System.out.println(map.getKey() + " " + "is" +" " + map.getValue() + " " + "month");
             }
         }
-    }
-
+    
+}
 }
